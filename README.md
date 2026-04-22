@@ -8,4 +8,7 @@ This is my data science portofolio
 
 Simmons University, Boston Mass
 
-[Project 1](https://Grace-Schneider.github.io/df_portfolio/projects/Project1.html)
+
+## Projects 
+
+[Project 1](https://Grace-Schneider.github.io/df_portfolio/Projects/Project1.html)
